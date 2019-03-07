@@ -1,0 +1,13 @@
+// Global SCSS styling
+// @see https://docs.nativescript.org/ui/styling
+
+.fa {
+  font-family: FontAwesome, fontawesome-webfont;
+}
+
+.my-button {
+  margin: 10;
+  background: #1F8E60;
+  color: white;
+  height: 70;
+}
